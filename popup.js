@@ -33,7 +33,9 @@ document.addEventListener('DOMContentLoaded', () => {
       ramdomQuote.author = data.author;
       ramdomQuote.source = "";*/
 
-      const jsonData = jsonDataInlineES;
+      const quotesArray = [generalQuotesES, computerQuotesES];
+
+      const jsonData = quotesArray[Math.floor(Math.random() * quotesArray.length)];
       if (jsonData && jsonData.length > 0) {
           const randomIndex = Math.floor(Math.random() * jsonData.length);
           const randomQuoteObject = jsonData[randomIndex];
