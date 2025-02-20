@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Aforismos Inteligentes"
+  },
+  "appDesc": {
+    "message": "Muestra frases motivacionales en tu navegador"
+  },
+  "loadingText": {
+    "message": "Cargando frase inspiradora..."
+  },
+  "newQuote": {
+    "message": "Nueva frase"
+  },
+  "shareQuote": {
+    "message": "Compartir"
+  },
+  "errorMessage": {
+    "message": "Error al cargar la frase. Intenta de nuevo."
+  },
+  "copiedClipboard": {
+    "message": "¡Frase copiada al portapapeles!"
+  },
+  "languageLabel": {
+    "message": "Idioma:"
+  }
+}

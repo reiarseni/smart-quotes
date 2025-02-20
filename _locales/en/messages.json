@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Smart Quotes"
+  },
+  "appDesc": {
+    "message": "Displays motivational quotes in your browser"
+  },
+  "loadingText": {
+    "message": "Loading smart quote..."
+  },
+  "newQuote": {
+    "message": "New Quote"
+  },
+  "shareQuote": {
+    "message": "Share"
+  },
+  "errorMessage": {
+    "message": "Error loading quote. Please try again."
+  },
+  "copiedClipboard": {
+    "message": "Quote copied to clipboard!"
+  },
+  "languageLabel": {
+    "message": "Language:"
+  }
+}
