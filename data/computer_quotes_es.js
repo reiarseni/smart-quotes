@@ -1,4 +1,4 @@
-const jsonDataInlineES = [
+const computerQuotesES = [
   {
     "_id": {
       "$oid": "5a6ce86e2af929789500e7e4"
